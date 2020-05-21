@@ -1,0 +1,124 @@
+
+
+
+- Learning Python
+- 
+
+
+- Python Documentation
+
+
+
+* Builtin Functions
+
+
+abs delattr hash memoryview set all dict help min setattr
+any dir hex next slice ascii divmod id object sorted bin enumerate 
+input oct staticmethod bool eval int open str breakpoint exec 
+isinstance ord sum bytearray filter issubclass pow super bytes 
+float iter print tuple callable format len property type chr 
+frozenset list range vars classmethod getattr locals repr zip compile 
+globals map reversed import complex hasattr max round 
+
+ hash memoryview set all  help min
+any dir hex next slice ascii divmod sorted bin enumerate 
+ oct staticmethod  eval  open str breakpoint exec 
+isinstance ord sum bytearray filter issubclass  super  
+ iter   callable format  property  chr 
+  vars classmethod getattr locals repr zip compile 
+
+
+globals map reversed import complex hasattr max round 
+
+frozenset
+
+
+** Object
+ id :: identity
+ type :: 
+ object :: newObject
+
+
+ dir :: attributes
+ delattr :: remove-attribute
+ setattr :: set-attribute
+** System
+eval
+exec
+open
+print
+input
+
+
+** Primitive
+- bool :: Boolean
+- bytes :: Byte
+- float :: Real
+- int  :: Integer
+- str :: String
+- tuple :: Array
+- list :: List
+- set :: Set
+- dict :: Map
+- range :: Range
+
+
+*** String 
+len :: length
+
+
+
+
+
+
+* Useful Libraries
+ 
+ - inspect ::
+	      Get useful information from live Python objects.
+ - requests :: Requests is an HTTP library, written in Python, for human beings. Basic GET
+ 
+** Graphical user interfaces
+** Web frameworks
+** Multimedia
+** Databases
+** Networking
+** Test frameworks
+** Automation
+** Web scraping[105]
+** Documentation
+** System administration
+** Scientific computing
+** Text processing
+** Image processing
+** Machine learning
+** Data analytics    
+
+* Execution Environment
+
+** IPython Environment
+
+Inspecting source-code interactively?
+
+#+BEGIN_SRC python
+  import inspect
+inspect??
+
+#+END_SRC
+
+
+
+
+**  Setup a Startup file
+https://stackoverflow.com/questions/5837259/installing-pythonstartup-file
+
+
+* Gui Tutorial
+
+
+https://python-gtk-3-tutorial.readthedocs.io/en/latest/
+
+
+
+* Laboratory
+
+
